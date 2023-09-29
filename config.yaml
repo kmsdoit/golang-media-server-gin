@@ -1,0 +1,6 @@
+database:
+  Type: mysql
+  User: root
+  Password : password
+  Host : localhost
+  Name : mysql
